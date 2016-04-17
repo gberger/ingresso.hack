@@ -1,0 +1,15 @@
+{
+  "name": "ingresso.hack",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Berger <guilherme.berger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.67.0",
+    "xml2js": "^0.4.16"
+  }
+}
